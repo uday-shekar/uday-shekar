@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Uday Shekar nallamolu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [KITS](http://localhost:5173/)
+- 🔭 I’m currently working on [KITS website](http://localhost:5173/)
 
 - 📫 How to reach me **udayshekarnallamolu@gmail.com**
 
